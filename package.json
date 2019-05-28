@@ -1,0 +1,23 @@
+{
+  "name": "highlight-pug",
+  "version": "0.0.1",
+  "description": "Highlight pug while using `highlight.js`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ztmd/highlight-pug.git"
+  },
+  "keywords": [],
+  "author": "xovel <xovel@vip.qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ztmd/highlight-pug/issues"
+  },
+  "homepage": "https://github.com/ztmd/highlight-pug#readme",
+  "devDependencies": {
+    "highlight.js": "^9.15.6"
+  }
+}

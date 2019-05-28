@@ -1,0 +1,9 @@
+extends:
+  - zob
+
+globals:
+  hljs: true
+
+rules:
+  semi: 2
+  no-console: 0
