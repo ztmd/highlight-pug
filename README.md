@@ -10,7 +10,6 @@ Highlight pug while using `highlight.js`.
 
 - Doctype
 - Inline Comment
-- String(`'`, `"`, `` ` ``)
 - Variable(`#{...}`, `${...}`)
 - Selector(`tag`, `id`, `class`)
 - Symbol(`=`, `,`, `:`, `?`, `!`)

@@ -11,8 +11,6 @@ function highlightPug(hljs) {
     },
     contains: [
       // string
-      hljs.APOS_STRING_MODE,
-      hljs.QUOTE_STRING_MODE,
       {
         className: 'string',
         begin: '`', end: '`',
