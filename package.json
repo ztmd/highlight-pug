@@ -1,6 +1,6 @@
 {
   "name": "highlight-pug",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Highlight pug while using `highlight.js`.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "url": "https://github.com/ztmd/highlight-pug/issues"
   },
   "homepage": "https://github.com/ztmd/highlight-pug#readme",
-  "devDependencies": {
+  "peerDependencies": {
     "highlight.js": "^9.15.6"
   }
 }

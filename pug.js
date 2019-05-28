@@ -6,6 +6,7 @@ function highlightPug(hljs) {
 
   return {
     case_insensitive: false,
+    aliases: ['jade'],
     keywords: {
       keyword: 'define if else unless each for in elseif var const let while do import include block extends switch case when default break continue until append prepend'
     },
